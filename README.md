@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shepuk
-- 👀 I’m interested in ... learning full stack development
-- 🌱 I’m currently learning ... JavaScript
+- 👀 I’m interested in ... full stack
+- 🌱 I’m currently learning ... Web Applications Development (Level 5)
 - 📫 How to reach me ... @paulsheppp
 
 <!---
