@@ -2,7 +2,7 @@
 
 I'm studying Web Applications Development at Newcastle College & Code Institute (Level 5). I have a background in IT and found a love for programming while experimenting with C# and the Unity game engine. I'm building full stack web applications with the following technologies:
 
-HTML \ CSS \ JavaScript \ jQuery \ Python \ Flask \ MongoDB \ MySQL \ Django \ Bootstrap
+JavaScript \ React \ jQuery \ Python \ Flask \ Django \ MongoDB \ SQL \ Bootstrap \ Bulma \ HTML & CSS
 
 - [LinkedIn](https://www.linkedin.com/in/pshepherd90/)
 - [Instagram](https://www.instagram.com/shepuk/)
