@@ -1,6 +1,6 @@
 ### Web Developer @ Zaltek Digital
 
-💪 Working with... <br />
+#### 💪 Working with... <br />
 JavaScript \ React \ Next \ jQuery \ <br />
 PHP \ Laravel \ WordPress \ <br />
 Python \ Flask \ Django \ <br />
@@ -10,7 +10,7 @@ Tailwind \ Bootstrap \ Bulma \ <br />
 ThreeJS \ <br />
 Design & Creative Direction \ <br />
 
-🔍 Developing skills in... <br />
+#### 🔍 Developing skills in... <br />
 C# \ .NET  <br />
 Unity \ Unreal  <br />
 Flutter \ Blazor  <br />
@@ -23,7 +23,7 @@ Flutter \ Blazor  <br />
 - 🔗 [Instagram](https://www.instagram.com/shepuk/)
 - 🔗 [Twitter](https://twitter.com/paulsheppp)
 
-✨ Interested in... <br />
+####  ✨ Interested in... <br />
 :hiking_boot: Walks & Hiking <br />
 :video_game: Gaming <br />
 :camera_flash: Photography <br /> 
