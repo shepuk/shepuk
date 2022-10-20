@@ -1,20 +1,27 @@
-# 👋 Hi, I’m Paul
+### Web Developer @ Zaltek Digital
 
-I'm studying Web Applications Development at Newcastle College & Code Institute (Level 5). I have a background in IT and found a love for programming while experimenting with C# and the Unity game engine. I'm building full stack web applications with the following technologies:
+💪 Working with... <br />
+JavaScript \ React \ Next \ jQuery \ <br />
+PHP \ Laravel \ WordPress \ <br />
+Python \ Flask \ Django \ <br />
+Strapi \ Nova \ Umbraco \ Drupal \ <br />
+MongoDB \ MySQL \ <br />
+Tailwind \ Bootstrap \ Bulma \ <br />
 
-JavaScript \ React \ jQuery \ Python \ Flask \ Django \ MongoDB \ SQL \ Bootstrap \ Bulma \ HTML & CSS
+🏫  Web Applications Development (Newcastle College & Code Institute). 
 
-- [LinkedIn](https://www.linkedin.com/in/pshepherd90/)
-- [Instagram](https://www.instagram.com/shepuk/)
-- [Twitter](https://twitter.com/paulsheppp)
+💻 Previously - IT & Retail.
 
-## I'm interested in...
-:desktop_computer: Technology \ 
-:hiking_boot: Walks & Hiking \ 
-:video_game: Gaming \ 
-:camera_flash: Photography \ 
-:paintbrush: Art & Design \ 
-:racing_car: Formula 1
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pshepherd90/)
+- 🔗 [Instagram](https://www.instagram.com/shepuk/)
+- 🔗 [Twitter](https://twitter.com/paulsheppp)
+
+### I'm interested in... <br />
+:hiking_boot: Walks & Hiking <br />
+:video_game: Gaming <br />
+:camera_flash: Photography <br /> 
+:paintbrush: Design <br />
+:racing_car: Formula <br />
 
 
 
