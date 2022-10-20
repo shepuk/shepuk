@@ -7,6 +7,13 @@ Python \ Flask \ Django \ <br />
 Strapi \ Nova \ Umbraco \ Drupal \ <br />
 MongoDB \ MySQL \ <br />
 Tailwind \ Bootstrap \ Bulma \ <br />
+ThreeJS \ <br />
+Design & Creative Direction \ <br />
+
+🔍 Developing skills in... <br />
+C# \ .NET  <br />
+Unity \ Unreal  <br />
+Flutter \ Blazor  <br />
 
 🏫  Web Applications Development (Newcastle College & Code Institute). 
 
