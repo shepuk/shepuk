@@ -1,5 +1,7 @@
 ### Web Developer @ Zaltek Digital
 
+---
+
 #### 💪 Working with... <br />
 JavaScript \ React \ Next \ jQuery \ <br />
 PHP \ Laravel \ WordPress \ <br />
@@ -15,21 +17,26 @@ C# \ .NET  <br />
 Unity \ Unreal  <br />
 Flutter \ Blazor  <br />
 
-🏫  Web Applications Development (Newcastle College & Code Institute). 
+---
 
-💻 Previously - IT & Retail.
+🏫  Education - Web Applications Development (Newcastle College & Code Institute). 
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pshepherd90/)
-- 🔗 [Instagram](https://www.instagram.com/shepuk/)
-- 🔗 [Twitter](https://twitter.com/paulsheppp)
+💻 Previous roles in - IT & Retail.
+
+---
 
 ####  ✨ Interested in... <br />
 :hiking_boot: Walks & Hiking <br />
 :video_game: Gaming <br />
 :camera_flash: Photography <br /> 
 :paintbrush: Design <br />
-:racing_car: Formula <br />
+:racing_car: Formula 1 <br />
 
+---
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pshepherd90/)
+- 🔗 [Instagram](https://www.instagram.com/shepuk/)
+- 🔗 [Twitter](https://twitter.com/paulsheppp)
 
 
 <!---
