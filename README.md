@@ -23,7 +23,7 @@ Flutter \ Blazor  <br />
 - 🔗 [Instagram](https://www.instagram.com/shepuk/)
 - 🔗 [Twitter](https://twitter.com/paulsheppp)
 
-### I'm interested in... <br />
+✨ Interested in... <br />
 :hiking_boot: Walks & Hiking <br />
 :video_game: Gaming <br />
 :camera_flash: Photography <br /> 
