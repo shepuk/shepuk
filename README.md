@@ -6,6 +6,7 @@
 JavaScript \ React \ Next \ jQuery \ <br />
 PHP \ Laravel \ WordPress \ <br />
 Python \ Flask \ Django \ <br />
+Jupyter \ Pandas \ <br />
 Strapi \ Nova \ Umbraco \ Drupal \ <br />
 MongoDB \ MySQL \ <br />
 Tailwind \ Bootstrap \ Bulma \ <br />
