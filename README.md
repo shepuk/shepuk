@@ -3,20 +3,20 @@
 ---
 
 #### 💪 Working with... <br />
-JavaScript \ React \ Next \ jQuery \ <br />
-PHP \ Laravel \ WordPress \ <br />
-Python \ Flask \ Django \ <br />
-Jupyter \ Pandas \ <br />
-Strapi \ Nova \ Umbraco \ Drupal \ <br />
-MongoDB \ MySQL \ <br />
-Tailwind \ Bootstrap \ Bulma \ <br />
-ThreeJS \ <br />
-Design & Creative Direction \ <br />
+JavaScript | Vue | React | Next | jQuery <br />
+PHP | Laravel  <br />
+Python | Flask | Django <br />
+Jupyter | Pandas <br />
+Wordpress | Statamic | Nova | Drupal <br />
+MySQL | MongoDB <br />
+Tailwind | Sass <br />
+ThreeJS <br />
+Design & Creative Direction <br />
 
 #### 🔍 Developing skills in... <br />
-C# \ .NET  <br />
-Unity \ Unreal  <br />
-Flutter \ Blazor  <br />
+C# | .NET  <br />
+Unity | Unreal  <br />
+Flutter | Blazor  <br />
 
 ---
 
@@ -36,8 +36,6 @@ Flutter \ Blazor  <br />
 ---
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pshepherd90/)
-- 🔗 [Instagram](https://www.instagram.com/shepuk/)
-- 🔗 [Twitter](https://twitter.com/paulsheppp)
 
 
 <!---
