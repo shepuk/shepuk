@@ -14,9 +14,7 @@ ThreeJS <br />
 Design & Creative Direction <br />
 
 #### 🔍 Developing skills in... <br />
-C# | .NET  <br />
-Unity | Unreal  <br />
-Flutter | Blazor  <br />
+C# | .NET | Unity | Unreal  <br />
 
 ---
 
